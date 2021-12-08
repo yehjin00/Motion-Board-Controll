@@ -1,4 +1,4 @@
 # Motion-Board-Controll
 
-[im01]: .form.PNG "Windows Forms"
+[im01]: .form.PNG.png "Windows Forms"
 ![alt text][im01]
